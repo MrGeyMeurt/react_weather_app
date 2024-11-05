@@ -13,9 +13,15 @@ This is a student project designed to help me get more comfortable with React an
 - **API**: OpenWeatherMap
 
 ## Installation
-1. Clone the repository.
-1. Run ``npm install`` to install dependencies.
-1. Start the application with ``npm start``.
+1. Download or clone the repository.
+2. To install the dependencies, run:
+```
+npm install
+```
+3. Start the application with:
+```
+npm start
+```
 
 ## Future Plans
 - Add more features.
